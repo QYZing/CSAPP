@@ -1,0 +1,13 @@
+dlc:bits.c:149:bitXor: 7 operators
+dlc:bits.c:159:tmin: 1 operators
+dlc:bits.c:171:isTmax: 7 operators
+dlc:bits.c:185:allOddBits: 9 operators
+dlc:bits.c:195:negate: 2 operators
+dlc:bits.c:216:isAsciiDigit: 11 operators
+dlc:bits.c:230:conditional: 8 operators
+dlc:bits.c:240:isLessOrEqual: 5 operators
+dlc:bits.c:254:logicalNeg: 6 operators
+dlc:bits.c:270:howManyBits: 0 operators
+dlc:bits.c:285:floatScale2: 0 operators
+dlc:bits.c:300:floatFloat2Int: 0 operators
+dlc:bits.c:316:floatPower2: 0 operators
